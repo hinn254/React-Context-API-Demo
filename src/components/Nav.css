@@ -1,0 +1,10 @@
+.Nav {
+  display: flex;
+  padding: 15px;
+  /* width: 100%; */
+  color: wheat;
+  background-color: black;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 10px;
+}
